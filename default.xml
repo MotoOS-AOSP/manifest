@@ -1472,7 +1472,7 @@
   <!-- Remove unused AOSP repos -->
   <include name="snippets/remove.xml" />
 
-  <!-- Project Blaze -->
-  <include name="snippets/blaze.xml" />
+  <!-- Project MotoOS -->
+  <include name="snippets/moto.xml" />
   <include name="snippets/lineage.xml" />
 </manifest>

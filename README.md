@@ -1,4 +1,4 @@
-![IMG_20240330_224359](https://github.com/ProjectBlaze/manifest/assets/87426352/1e62709a-d474-4ced-adad-5155801d1fe8)
+![]()
 Getting Started:
 ===============
 
@@ -7,7 +7,7 @@ To get started with Project Blaze, you'll need to get familiar with [Repo](https
 To initialize your local repository, use a command like this:
 
 ```bash
-repo init -u https://github.com/ProjectBlaze/manifest -b 15 --git-lfs
+repo init -u https://github.com/MotoOS-AOSP/manifest -b 15 --git-lfs
 ```
 
 Then to sync up:
@@ -17,18 +17,15 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
 
 ---------------------------------------------------------------------------------------
- Compilation of ProjectBlaze:
+ Compilation of MotoOS-AOSP:
  ==================
 
 From root directory of Project, perform following commands in terminal
 
 ```bash
 $ . build/envsetup.sh
-$ lunch blaze_$device-ap3a-userdebug
+$ lunch moto_$device-ap3a-userdebug
 $ make bacon
-```
-NOTE:
-If building for your device, adapt your tree to our configurations. Use this [commit](https://github.com/ProjectBlaze-Devices/device_xiaomi_onclite/commit/4a4dee0f51f21bb3c45b8b9e77639b43ae0eb556) as a reference.
 ---------------------------------------------------------------------------------------
 
 # Credits:

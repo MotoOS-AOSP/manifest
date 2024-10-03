@@ -2,11 +2,7 @@
 <manifest>
 
   <remote name="moto"
-          fetch="https://github.com/ProjectBlaze"
-          revision="15"  />
-
-  <remote name="moto-extra"
-          fetch="https://github.com/ProjectBlaze-Extras"
+          fetch="https://github.com/MotoOS-AOSP"
           revision="15"  />
 
   <remote name="gitlab"

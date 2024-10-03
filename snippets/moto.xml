@@ -35,15 +35,15 @@
   <project path="device/moto/sepolicy" name="device_moto_sepolicy" remote="moto" />
 
   <!-- External Repos -->
-  <project path="external/dtc" name="external_dtc" remote="moto-extra" />
-  <project path="external/libnl" name="external_libnl" remote="moto-extra" />
+  <project path="external/dtc" name="external_dtc" remote="moto" />
+  <project path="external/libnl" name="external_libnl" remote="moto" />
   <project path="external/gptfdisk" name="external_gptfdisk" remote="moto" />
   <project path="external/mksh" name="external_mksh" remote="moto" />
-  <project path="external/libcxx" name="external_libcxx" groups="pdk" remote="moto-extra" />
+  <project path="external/libcxx" name="external_libcxx" groups="pdk" remote="moto" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="moto" />
-  <project path="external/tinycompress" name="external_tinycompress" remote="moto-extra" />
-  <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="moto-extra" />
-  <project path="external/zstd" name="external_zstd" groups="pdk" remote="moto-extra" />
+  <project path="external/tinycompress" name="external_tinycompress" remote="moto" />
+  <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="moto" />
+  <project path="external/zstd" name="external_zstd" groups="pdk" remote="moto" />
 
   <!-- Frameworks Repos -->
   <project path="frameworks/av" name="frameworks_av" remote="moto" />

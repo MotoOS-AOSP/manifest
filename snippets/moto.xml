@@ -51,8 +51,9 @@
   <project path="frameworks/native" name="frameworks_native" remote="moto" />
 
   <!-- Hardware Repos -->
-  <!-- <project path="hardware/xiaomi" name="hardware_xiaomi" remote="moto" /> -->
-  <!-- <project path="hardware/google/pixel" name="hardware_google_pixel" remote="moto" /> -->
+  <project path="hardware/xiaomi" name="hardware_xiaomi" remote="moto" />
+  <project path="hardware/motorola" name="hardware_motorola" remote="moto" />
+  <project path="hardware/google/pixel" name="hardware_google_pixel" remote="moto" />
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="moto" />
   <project path="hardware/libhardware" name="hardware_libhardware" groups="pdk" remote="moto" />
   <project path="hardware/qcom/wlan" name="hardware_qcom_wlan" remote="moto" />

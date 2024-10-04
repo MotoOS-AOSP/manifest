@@ -95,7 +95,7 @@
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr-legacy-um" name="vendor_qcom_opensource_data-ipa-cfg-mgr" groups="qcom,lahaina" remote="moto" />
 
   <!-- Packages Repos -->
-  <project path="packages/apps/TweakHouse" name="packages_apps_TweakHouse" remote="moto" />
+  <!-- <project path="packages/apps/TweakHouse" name="packages_apps_TweakHouse" remote="moto" /> -->
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="moto" />
   <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="moto" />
   <project path="packages/apps/ParanoidSense" name="packages_apps_ParanoidSense" remote="moto" />

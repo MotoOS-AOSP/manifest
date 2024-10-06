@@ -36,6 +36,7 @@
 
   <!-- External Repos -->
   <project path="external/skia" name="platform_external_skia" remote="moto" />
+  <project path="external/noto-fonts" name="platform_external_noto-fonts" remote="moto" />
   <project path="external/dtc" name="external_dtc" remote="moto" />
   <project path="external/libnl" name="external_libnl" remote="moto" />
   <project path="external/gptfdisk" name="external_gptfdisk" remote="moto" />

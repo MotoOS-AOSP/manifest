@@ -35,6 +35,7 @@
   <project path="device/moto/sepolicy" name="device_moto_sepolicy" remote="moto" />
 
   <!-- External Repos -->
+  <project path="external/skia" name="platform_external_skia" remote="moto" />
   <project path="external/dtc" name="external_dtc" remote="moto" />
   <project path="external/libnl" name="external_libnl" remote="moto" />
   <project path="external/gptfdisk" name="external_gptfdisk" remote="moto" />

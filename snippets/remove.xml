@@ -86,6 +86,7 @@
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/wpa_supplicant_8" />
   <remove-project name="platform/external/zstd" />
+  <remove-project name="platform/external/skia" />
 
   <!-- General repos -->
   <remove-project name="platform/art" />

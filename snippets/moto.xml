@@ -118,7 +118,7 @@
   <project path="vendor/motorola/GameMode" name="Deivid21/proprietary_vendor_motorola_GameMode" remote="gitlab" revision="android-14" clone-depth="1" />
   <project path="vendor/motorola/MotoSignatureApp" name="proprietary_vendor_motorola_MotoSignatureApp" remote="deivid" clone-depth="1" />
   <project path="vendor/motorola/TimeWeather" name="proprietary_vendor_motorola_TimeWeather" remote="deivid" />
-
+  <project path="vendor/motorola/MotoLiveWallpaper3" name="proprietary_vendor_motorola_MotoLiveWallpaper3" remote="deivid" />
 
   <!-- System Repos -->
   <project path="system/core" name="seba3567/system_core-a15" remote="gitlab" revision="15" clone-depth="1"  />

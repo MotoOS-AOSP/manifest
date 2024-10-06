@@ -110,6 +110,7 @@
   <project path="vendor/gms" name="seba3567/vendor_gms" remote="gitlab" revision="15" clone-depth="1" />
   <project path="vendor/support" name="vendor_support" remote="moto" />
   <project path="vendor/qcom/opensource/vibrator" name="vendor_qcom_opensource_vibrator" groups="qcom,kailua-vendor" remote="moto" />
+  <project path="vendor/motorola/GameMode" name="Deivid21/proprietary_vendor_motorola_GameMode" remote="gitlab" revision="android-14" clone-depth="1" />
 
   <!-- System Repos -->
   <project path="system/core" name="seba3567/system_core-a15" remote="gitlab" revision="15" clone-depth="1"  />

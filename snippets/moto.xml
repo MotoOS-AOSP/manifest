@@ -132,4 +132,5 @@
   <project path="system/libziparchive" name="system_libziparchive" remote="moto" />
   <project path="system/extras" name="system_extras" remote="moto" />
 
+  <project path="platform_testing" name="platform_testing" remote="moto" />
 </manifest>

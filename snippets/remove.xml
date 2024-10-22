@@ -135,4 +135,11 @@
 
 
   <remove-project name="platform/platform_testing" />
+
+  <!-- NO DEVICE OR TABLET SETUP-->
+  <remove-project name="platform/packages/apps/TvSettings" />
+  <remove-project name="platform/packages/apps/TvSystemUI" />
+  <remove-project name="platform/packages/apps/TvFeedbackConsent" />
+  <remove-project name="platform/packages/apps/LegacyCamera" />
+  <remove-project name="platform/packages/apps/SystemUIGo" />
 </manifest>

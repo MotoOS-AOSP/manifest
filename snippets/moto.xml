@@ -116,7 +116,7 @@
 
   <!-- Vendor Repos -->
   <project path="vendor/moto" name="vendor_moto" remote="moto" />
-  <project path="vendor/gms" name="seba3567/vendor_gms" remote="gitlab" revision="15" clone-depth="1" />
+  <project path="vendor/gms" name="seba3567/vendor_gms" remote="gitlab" revision="fifteen" clone-depth="1" />
   <project path="vendor/support" name="vendor_support" remote="moto" />
   <project path="vendor/qcom/opensource/vibrator" name="vendor_qcom_opensource_vibrator" groups="qcom,kailua-vendor" remote="moto" />
   <project path="vendor/motorola/GameMode" name="proprietary_vendor_motorola_GameMode" remote="deivid" clone-depth="1" />
